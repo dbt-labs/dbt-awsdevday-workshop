@@ -1,7 +1,7 @@
 ---
 title: "Initiate your project"
 chapter: true
-weight: 4
+weight: 40
 ---
 
 # Initiate project

@@ -1,7 +1,7 @@
 ---
 title: "Connect to Redshift and Github"
 chapter: true
-weight: 2
+weight: 20
 ---
 
-# Set up dbt Cloud
+# Connect to Redshift and Github
